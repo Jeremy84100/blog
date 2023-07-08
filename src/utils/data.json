@@ -1,0 +1,50 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "category": "TUTORIAL",
+        "title": "Comment avoir Netflix pour seulement 2.25€ ?",
+        "date": "07 Juillet 2023",
+        "image": "/assets/Netflix.webp",
+        "important": "true",
+        "color": "red"
+      },
+      {
+        "id": 2,
+        "category": "TUTORIAL",
+        "title": "Comment avoir Spotify Premium pour seulement 2.25€ ?",
+        "date": "07 Juillet 2023",
+        "image": "/assets/Spotify.webp",
+        "important": "false",
+        "color": "green"
+      },
+      {
+        "id": 3,
+        "category": "TUTORIAL",
+        "title": "Comment avoir Discord Nitro pour seulement 2.25€ ?",
+        "date": "07 Juillet 2023",
+        "image": "/assets/Discord.webp",
+        "important": "false",
+        "color": "blue"
+      },
+      {
+        "id": 4,
+        "category": "TUTORIAL",
+        "title": "Comment avoir Disney+ pour seulement 2.25€ ?",
+        "date": "07 Juillet 2023",
+        "image": "/assets/Disney+.webp",
+        "important": "true",
+        "color": "blue"
+      },
+      {
+        "id": 5,
+        "category": "TUTORIAL",
+        "title": "Comment avoir Crunchyroll pour seulement 2.25€ ?",
+        "date": "07 Juillet 2023",
+        "image": "/assets/Crunchyroll.webp",
+        "important": "false",
+        "color": "red"
+      }
+    ]
+  }
+  
