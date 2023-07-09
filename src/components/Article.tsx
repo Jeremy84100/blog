@@ -1,23 +1,13 @@
 import styled, { css } from "styled-components";
 import { Link } from "react-router-dom";
 
-interface ArticleProps {
-  article: {
-    id: number;
-    title: string;
-    category: string;
-    date: string;
-    image: string;
-    important: string;
-    color: string;
-  };
-}
+import { ArticleType } from "../types/types";
 
-const Article = ({ article }: ArticleProps) => {
+const Article = ({ article }: { article: ArticleType }) => {
   return (
     <StyledArticle
-      to="/"
-      key={article.id}
+    to={`${article.id}_${article.title.replace(/\s+/g, "-").toLowerCase()}`}
+    key={article.id}
       important={article.important}
       color={article.color}>
       <StyledArticleImage src={article.image} alt="netflix" />

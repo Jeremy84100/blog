@@ -35,6 +35,7 @@ const StyledHome = styled.div`
 const StyledHero = styled.div`
   display: flex;
   flex-direction: column;
+  text-align: center;
   justify-content: center;
   align-items: center;
   background: linear-gradient(

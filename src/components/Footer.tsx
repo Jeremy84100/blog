@@ -43,18 +43,18 @@ const StyledFooterContainer = styled.div`
 `;
 
 const StyledFooterLink = styled(Link)`
-  color: #fff;
-  text-decoration: none;
-  font-size: 1rem;
-  transition: all 0.2s ease-in-out;
-  &:hover {
-    color: #d1d1d1;
-  }
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: all 0.2s ease-in-out;
+    &:hover {
+        color: #d1d1d1;
+    }
 `;
 
 const StyledFooterLinkContainer = styled.div`
-  display: flex;
-  gap: 1rem;
+    display: flex;
+    gap: 1rem;
 `;
 
 export default Footer;
