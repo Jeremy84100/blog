@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import Article from "../components/Article";
+import CardArticle from "../components/CardArticle";
 
 import data from "../utils/data.json";
 
@@ -15,13 +15,14 @@ const Home = () => {
       <StyleHomeContainer>
         <StyledTitle>Les derniers articles</StyledTitle>
         <StyledArticleContener>
-          {data.articles.map((article) => (
-            <Article article={article} key={article.id} />
+          {data.articles.slice().reverse().map((article) => (
+            <CardArticle article={article} key={article.id} />
           ))}
         </StyledArticleContener>
       </StyleHomeContainer>
     </StyledHome>
   );
+  
 };
 
 const StyledHome = styled.div`

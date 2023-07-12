@@ -3,14 +3,14 @@ import { Link } from "react-router-dom";
 
 import { ArticleType } from "../types/types";
 
-const Article = ({ article }: { article: ArticleType }) => {
+const CardArticle = ({ article }: { article: ArticleType }) => {
   return (
     <StyledArticle
     to={`${article.id}_${article.title.replace(/\s+/g, "-").toLowerCase()}`}
     key={article.id}
       important={article.important}
       color={article.color}>
-      <StyledArticleImage src={article.image} alt="netflix" />
+      <StyledArticleImage src={article.image} alt={article.alt} />
       <StyledArticleContent>
         <StyledArticleCategory
           important={article.important}
@@ -206,4 +206,4 @@ const StyledArticleDate = styled.p<{ important: string }>`
   }
 `;
 
-export default Article;
+export default CardArticle;

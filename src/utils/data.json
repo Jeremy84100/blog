@@ -1,57 +1,135 @@
 {
-    "articles": [
-      {
-        "id": 1,
-        "category": "TUTORIAL",
-        "title": "Comment avoir Netflix pour seulement 2.25€?",
-        "date": "07 Juillet 2023",
-        "image": "/assets/Netflix.webp",
-        "important": "true",
-        "color": "red",
-        "contents": [
+  "articles": [
+    {
+      "id": 1,
+      "category": "TUTORIAL",
+      "title": "Comment obtenir Netflix pour seulement 2.25€",
+      "date": "07 Juillet 2023",
+      "image": "/assets/1/Netflix-150px.webp",
+      "alt": "Netflix icons",
+      "important": "true",
+      "color": "red",
+      "header": {
+        "title": "Je vais vous montrer comment obtenir un compte Netflix personnel à partir de 2,25 €. Cette méthode ne nécessite pas l'utilisation de sites comme Gamsgo qui ne permettent d'avoir qu'un seul profil sur un compte Netflix partagé. Avec cette méthode, vous pourrez avoir ou conserver votre propre compte Netflix 4 fois moins cher que le prix de base !",
+        "image": "/assets/1/Netflix-600px.webp",
+        "caption": "Le logo de Netflix"
+      },
+      "contents": [
+        {
+          "paragraphs": [
+            "Avant de commencer, je tiens à préciser que si vous ne pouvez pas réaliser ces étapes pour une raison quelconque, je peux le faire à votre place. Il vous suffit de vous rendre sur ma boutique et de choisir l'option Netflix Upgrade. Vous devrez simplement me fournir votre adresse e-mail afin que je puisse vous contacter, ainsi que l'adresse e-mail et le mot de passe de votre compte Netflix (je vous conseille de changer le mot de passe avant de me le transmettre, puis de le rétablir une fois la commande effectuée). Sinon, je peux également créer un compte Netflix pour vous."
+          ]
+        },
+        {
+          "paragraphs": [
             {
-                "title": "Etape 1",
-                "content": "Allez sur le site <a href='https://www.netflix.com/fr/'>Netflix</a> et connectez-vous à votre compte."
+              "list": {
+                "title": "Ce dont vous aurez besoin :",
+                "items": [
+                  "Un smartphone ou un ordinateur (désolé pour ceux qui ont seulement une PS2)",
+                  "Une carte de crédit (pour l'abonnement Netflix, hein)",
+                  "(Optionnel) Un compte Netflix avec déjà un abonnement actif",
+                  "Un VPN, si vous n'en avez pas, vous pouvez en utiliser un gratuit comme Windscribe"
+                ]
+              }
             }
-        ]
-      },
-      {
-        "id": 2,
-        "category": "TUTORIAL",
-        "title": "Comment avoir Spotify Premium pour seulement 2.25€?",
-        "date": "07 Juillet 2023",
-        "image": "/assets/Spotify.webp",
-        "important": "false",
-        "color": "green"
-      },
-      {
-        "id": 3,
-        "category": "TUTORIAL",
-        "title": "Comment avoir Discord Nitro pour seulement 2.25€?",
-        "date": "07 Juillet 2023",
-        "image": "/assets/Discord.webp",
-        "important": "false",
-        "color": "blue"
-      },
-      {
-        "id": 4,
-        "category": "TUTORIAL",
-        "title": "Comment avoir Disney+ pour seulement 2.25€?",
-        "date": "07 Juillet 2023",
-        "image": "/assets/Disney+.webp",
-        "important": "true",
-        "color": "blue"
-      },
-      {
-        "id": 5,
-        "category": "TUTORIAL",
-        "title": "Comment avoir Crunchyroll pour seulement 2.25€?",
-        "date": "07 Juillet 2023",
-        "image": "/assets/Crunchyroll.webp",
-        "important": "false",
-        "color": "red"
-        
-      }
-    ]
-  }
-  
+          ]
+        },
+        {
+          "title": "Pourquoi Netflix est moins cher en Turquie ?",
+          "paragraphs": [
+            "Netflix propose des tarifs plus bas en Turquie en raison de différences de pouvoir d'achat et de stratégies de tarification adaptées au marché local. Les prix des abonnements Netflix varient selon les pays, prenant en compte des facteurs tels que le niveau de vie et la concurrence.",
+            "Ainsi, pour rendre le service plus accessible en Turquie où le pouvoir d'achat est plus bas, Netflix propose des tarifs abordables dans le pays."
+          ]
+        },
+        {
+          "title": "Comment avoir Netflix à moindre coût sur n'importe quel appareil ?",
+          "paragraphs": [
+            "Que vous ayez un Android, un iPhone ou un ordinateur, c'est pratiquement la même chose. La seule différence réside dans la présence ou l'absence d'un VPN en fonction de l'appareil !"
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "list": {
+                "title": "Voici les étapes à suivre :",
+                "items": [
+                  "(Sans VPN) Si vous n'avez pas déjà un compte Netflix, il vous suffit d'en créer un.",
+                  "(Sans VPN) Si vous n'avez pas encore d'abonnement activé, optez pour un mois d'abonnement. C'est indispensable pour conserver votre carte bancaire française et votre numéro de téléphone.",
+                  "(Sans VPN) Si ce n'est pas déjà fait, ajoutez votre carte de crédit et renseignez votre numéro de téléphone (indispensable).",
+                  "(Sans VPN) Annulez votre abonnement en accédant à Compte > Annuler l'abonnement.",
+                  "(Sans VPN) Attendez que votre abonnement se termine.",
+                  "(Sans VPN) Lorsque votre abonnement se termine, attendez au moins J+1 jusqu'à J+29 maximum, sinon vous perdrez le bénéfice d'avoir votre carte bancaire et votre téléphone mobile enregistrés sur votre compte Netflix.",
+                  "(Sans VPN) Téléchargez un VPN prenant en charge la Turquie, comme NordVPN, ou utilisez-en un gratuit, comme Windscribe.",
+                  "(Avec VPN) Activez le VPN et ouvrez une fenêtre de navigation privée, connectez-vous à votre compte, et vous verrez que les prix sont en livres turques (TL).",
+                  "(Avec VPN) Choisissez votre forfait, qui peut varier de 2,25 € à 5 € pour la 4K UHD. Normalement, votre abonnement s'active automatiquement puisque votre carte bancaire est enregistrée."
+                ]
+              }
+            },
+            "Voilà, normalement vous avez un compte Netflix pour seulement 2,25 € minimum !"
+          ]
+        },
+        {
+          "title": "Quelques problèmes que vous pouvez rencontrer",
+          "paragraphs": [
+            "Il arrive fréquemment que des problèmes surviennent, mais ce sont souvent des problèmes que vous pouvez résoudre facilement."
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "list": {
+                "title": "Numéro de téléphone turc demandé",
+                "items": [
+                  "Rendez-vous sur 5SIM et choisissez un numéro de téléphone jetable turc. Il vous suffit de sélectionner le pays turc pour le service Netflix.",
+                  "Utilisez le numéro que 5SIM vous a fourni sur Netflix et attendez le SMS de confirmation directement sur 5SIM pour le saisir sur Netflix."
+                ]
+              },
+              "image": {
+                "src": "/assets/1/Netflix-numéro-turc-demander.png",
+                "caption": "Netflix demandant un numéro de téléphone turc"
+              }
+            },
+            "Si vous ne recevez jamais le SMS de confirmation, aucun débit ne sera effectué et vous pourrez réessayer avec un autre numéro de téléphone."
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "list": {
+                "title": "Votre carte bancaire refusée ou expirée :",
+                "items": [
+                  "Essayez régulièrement chaque jour, en variant votre navigateur, votre VPN et/ou le moment de la tentative. Si possible, utilisez une autre carte bancaire. Malgré ces essais, si votre carte bancaire ne fonctionne toujours pas, essayez d'autres méthodes (apparemment, REVOLUT ne permet plus les nouveaux enregistrements).",
+                  "Si votre carte bancaire est arrivée à expiration, veuillez contacter le service client et leur expliquer que vous rencontrez des difficultés pour mettre à jour vos informations de carte bancaire. L'agent vous enverra alors un formulaire via le chat où vous pourrez saisir votre nouveau numéro de carte bancaire.",
+                  "Si votre carte bancaire fonctionne toujours, l'une des méthodes les plus fiables actuellement consiste à acheter une carte cadeau Netflix turque sur des plateformes de vente telles que ENEBA, TURGAME et surtout HEPSIBURADA, qui est un revendeur officiel de Netflix."
+                ]
+              }
+            },
+            "Ce site propose des cartes cadeaux de 100 TL et 75 TL au taux de change actuel (+ éventuelle commission de votre carte bancaire), contrairement aux autres sites qui ajoutent une commission supplémentaire.",
+            "Une fois que le code de la carte est validé, votre crédit est valable en proportion du tarif que vous avez choisi.",
+            "Normalement, votre carte bancaire enregistrée prendra le relais une fois que le crédit sera épuisé."
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "list": {
+                "title": "Votre compte ne peut pas être utilisé dans cette région",
+                "items": [
+                  "Votre compte est suspecté par Netflix. Il suffit d'attendre un à deux mois pour certaines personnes.",
+                  "Pendant ce temps, vous devez regarder Netflix avec un VPN turc. Je vous conseille NordVPN car il est très rapide !",
+                  "Après un à deux mois, vous pouvez regarder Netflix sans VPN. Cependant, si vous souhaitez regarder Netflix avec un VPN, vous pouvez le faire !"
+                ]
+              },
+              "image": {
+                "src": "/assets/1/Netflix-bloque-compte-turc-1080x511.jpg",
+                "caption": "Netflix bloque votre compte turc"
+              }
+            },
+            "Voilà, normalement vous avez résolu tous les problèmes les plus courants. Mais si vous rencontrez toujours des problèmes, vous pouvez consulter le site Dealabs et la section des commentaires pour des problèmes moins courants."
+          ]
+        }
+      ]
+    }
+  ]
+}
